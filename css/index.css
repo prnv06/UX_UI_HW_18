@@ -4,7 +4,7 @@
 }
 
 .logo {
-    width: 23%;
+    width: 22%;
     padding: 1%;
     text-align: center;
 }
@@ -12,6 +12,11 @@
 nav {
     width: 73%;
     padding: 1%;
+    color: white;
+}
+
+.navigation {
+    background-color: #373738;
 }
 
 ul {
@@ -31,11 +36,23 @@ ul {
 
 footer {
     background-color: #373738;
-    padding: 1%;
+    padding: 2%;
+    color: white;
+}
+
+li {
+    padding: 2%;
 }
 
 footer ul {
     display: inline-block;
     vertical-align: top;
-    padding: 1%;
+}
+
+.portfolio-image {
+    height: 400px;
+}
+
+.logo-image {
+    height: 70px;
 }
